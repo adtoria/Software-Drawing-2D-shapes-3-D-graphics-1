@@ -8,7 +8,7 @@ sssssssssssssssssssssssssssskkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 ## :computer: Specific Technology used:
 
 * Java
-* Swing .
+* Swing 
 
 ------------------------------------------------------------------------------------------------
 
