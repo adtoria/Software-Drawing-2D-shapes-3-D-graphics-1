@@ -17,6 +17,14 @@ In this project you have to draw 2D shapes such as Squares, Circles. And there a
 
 ------------------------------------------------------------------------------------------------
 
+# UML :
+
+- [Use Case Diagram](./UML/Use-Case-Diagram.pdf)
+- [Class Diagram](./UML/Class-Diagram.pdf)
+- [CRC Diagram](./UML/CRC-Diagram.pdf)
+
+------------------------------------------------------------------------------------------------
+
 # Team :
 
 <table>
