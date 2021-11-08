@@ -6,7 +6,7 @@ In this project you have to draw 2D shapes such as Squares, Circles. And there a
 
 # Problem Statement :
 
-[Group 10 Problem Statement](./OOMMiniProject10-Software-Drawing-2D-Shapes-&-3D-Graphics.docx)
+[Group 10 Problem Statement](./OOMMiniProject10-Software-Drawing-2D-Shapes-&-3D-Graphics.pdf)
 
 -----------------------------------------------------------------------------------------------
 
