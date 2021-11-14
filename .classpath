@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/j3dcore.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/j3dutils.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/vecmath.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Java3DLib"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/cldrdata.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/jaccess.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/nashorn.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/sunec.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_301/lib/ext/zipfs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

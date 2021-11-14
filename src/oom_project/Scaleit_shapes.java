@@ -1,0 +1,25 @@
+package oom_project;
+
+import com.sun.j3d.utils.geometry.ColorCube;
+import com.sun.j3d.utils.geometry.Cone;
+import com.sun.j3d.utils.geometry.Cylinder;
+import com.sun.j3d.utils.geometry.Sphere;
+
+import java.awt.Polygon;
+import java.awt.Rectangle;
+import java.awt.Shape;
+
+public class Scaleit_shapes {
+	
+	String name;
+	Shape rectangle, circle, square, triangle, ellipse, star;
+	
+	Polygon tri1, tri2, tri3, tri4;
+	Rectangle midrect;
+	
+	Sphere sphere;
+	ColorCube cube;
+	Cylinder cylinder;
+	Cone cone;
+	
+}
