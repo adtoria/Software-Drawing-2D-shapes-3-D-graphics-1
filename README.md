@@ -42,9 +42,3 @@ In this project you have to draw 2D shapes such as Squares, Circles. And there a
  
  </tr>
 </table>
-
-------------------------------------------------------------------------------------------------
-
-# Demo :
-
-- [Demo](https://www.youtube.com/watch?v=1p79CuCTS9Q)
