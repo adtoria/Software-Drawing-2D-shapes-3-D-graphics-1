@@ -1,6 +1,6 @@
 # Software Drawing 2D Shapes & 3D Graphics
 
-In this project you have to draw 2D shapes such as Squares, Circles. And there are buttons to control the rotation shapes. Also, draw 3D Squares/Rectangle, Circles. In addition to this, keep buttons to control the rotation in different orientations.
+In this project, we are drawing 2D Shapes such as Squares, Circles, Stars etc along with 3D Graphics such as Cubes, Cylinders, Spheres. There are buttons to control the rotation of the shapes. In addition to this, there are buttons to change the colors of the shapes as well as control their rotation in different orientations. 
 
 -----------------------------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ In this project you have to draw 2D shapes such as Squares, Circles. And there a
 
 ------------------------------------------------------------------------------------------------
 
-# UML :
+# UML Diagrams :
 
 - [Use Case Diagram](./UML/Use-Case-Diagram.pdf)
 - [Class Diagram](./UML/Class-Diagram.pdf)
