@@ -35,6 +35,8 @@ In this project, we are drawing 2D Shapes such as Squares, Circles, Stars etc al
 
 [Presentation](https://docs.google.com/presentation/d/15t8Ne1xePO6uqswqVLjcfJFVvWoMgiqJx37-vu0zHBI)
 
+------------------------------------------------------------------------------------------------
+
 # Team : Group 10
 
 <table>
