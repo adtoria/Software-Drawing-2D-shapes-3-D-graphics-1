@@ -13,7 +13,9 @@ In this project, we are drawing 2D Shapes such as Squares, Circles, Stars etc al
 # Technology Used :
 
 * Java
-* Swing 
+* Swing
+* Java3D
+* JavaMedia 
 
 ------------------------------------------------------------------------------------------------
 
