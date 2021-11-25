@@ -22,9 +22,8 @@ In this project, we are drawing 2D Shapes such as Squares, Circles, Stars etc al
 # UML Diagrams :
 
 - [Use Case Diagram](./UML/Use-Case-Diagram.pdf)
-- [Class Diagram](./UML/Class-Diagram.pdf)
+- [Class Diagram](./UML/Class-Diagram.png)
 - [CRC Diagram](./UML/CRC-Diagram.pdf)
-- [UML Class Diagram](./UML/UML-Class-Diagram.png)
 
 ------------------------------------------------------------------------------------------------
 
