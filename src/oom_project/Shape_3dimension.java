@@ -113,20 +113,20 @@ public class Shape_3dimension extends Shape_Generator {
         light.setInfluencingBounds(bounds);
         group.addChild(light);
         
-        spinAlpha = new Alpha(-1, 10000);
+        spinAlpha = new Alpha(-1, 20000);
         spin = new RotationInterpolator(spinAlpha, tGroup);
         spin.setSchedulingBounds(new BoundingSphere(new Point3d(), 0));
         if(flag==true)
         {
         	tGroup.addChild(spin);
         	universe.getViewingPlatform().setNominalViewingTransform();
-            universe.getViewer().getView().setBackClipDistance(100.0);
+            universe.getViewer().getView().setBackClipDistance(10.0);
             universe.addBranchGraph(group);
             
             this.add(canvas);
         }else {
         	universe.getViewingPlatform().setNominalViewingTransform();
-            universe.getViewer().getView().setBackClipDistance(100.0);
+            universe.getViewer().getView().setBackClipDistance(10.0);
             universe.addBranchGraph(group);
             
             this.add(canvas);
